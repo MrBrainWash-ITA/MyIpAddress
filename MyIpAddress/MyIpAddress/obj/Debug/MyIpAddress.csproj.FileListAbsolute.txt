@@ -1,0 +1,8 @@
+c:\users\ricky\documents\visual studio 2015\Projects\MyIpAddress\MyIpAddress\bin\Debug\MyIpAddress.exe
+c:\users\ricky\documents\visual studio 2015\Projects\MyIpAddress\MyIpAddress\bin\Debug\MyIpAddress.pdb
+c:\users\ricky\documents\visual studio 2015\Projects\MyIpAddress\MyIpAddress\obj\Debug\MyIpAddress.csprojResolveAssemblyReference.cache
+c:\users\ricky\documents\visual studio 2015\Projects\MyIpAddress\MyIpAddress\obj\Debug\MyIpAddress.Form1.resources
+c:\users\ricky\documents\visual studio 2015\Projects\MyIpAddress\MyIpAddress\obj\Debug\MyIpAddress.Properties.Resources.resources
+c:\users\ricky\documents\visual studio 2015\Projects\MyIpAddress\MyIpAddress\obj\Debug\MyIpAddress.csproj.GenerateResource.Cache
+c:\users\ricky\documents\visual studio 2015\Projects\MyIpAddress\MyIpAddress\obj\Debug\MyIpAddress.exe
+c:\users\ricky\documents\visual studio 2015\Projects\MyIpAddress\MyIpAddress\obj\Debug\MyIpAddress.pdb
